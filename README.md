@@ -29,6 +29,13 @@
 
 ---
 
+## How to Run
+
+### Prerequisites
+* **Android Studio** (Ladybug or newer recommended)
+* **Android SDK** (Minimum API Level 26 / Android 8.0)
+* An **Android Emulator** (e.g., Pixel 6 / Pixel 7) or a physical Android device with USB Debugging enabled
+
 ## Project Structure
 
 ```text
